@@ -24,7 +24,7 @@ if __name__ == "__main__":
 		ip = foward_lookup(host)
 		print(ip)
                 # 逆引き
-				#
+				# a
 		#domain = reverse_lookup(host)
 		#print domain
 	f.close()
